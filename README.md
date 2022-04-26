@@ -9,7 +9,7 @@
 </br>
 <section class=”Sobre"><h2> :herb: Projeto </h2>
 
-<p> A Natugama, especialista em cosméticos naturais e vejamos. Ela proponhe uma nova visão sobre a relevância no desenvolvimento de um produto natural que não somente nos cuide, mas considere cuidados para a sua origem. </p>
+<p> A Natugama, especialista em cosméticos naturais e veganos. Ela proponhe uma nova visão sobre a relevância no desenvolvimento de um produto natural que não somente nos cuide, mas considere cuidados para a sua origem. </p>
 </br>
 <img src="https://user-images.githubusercontent.com/88943268/165409916-fff3ebee-961a-42b8-80b7-88024efce964.png">
 </br></br>
